@@ -15,6 +15,17 @@ Pour rechercher une essence de bois spécifique, utilisez la barre de recherche 
 ## Auteur
 Ce projet a été développé par [daviddubucdev](https://github.com/daviddubucdev). Suivez-le sur [Instagram](https://www.instagram.com/daviddubuc.developer?igsh=MXNlN3RjcTVpdHBsNA==) et [LinkedIn](https://www.linkedin.com/in/david-dubuc-39125416a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) pour plus de mises à jour et de projets passionnants.
 
+
+##Technologies utilisées:
+------------------------
+Backend: Node.js, Express.js
+Frontend: React
+Base de données: MongoDB ou SQLite
+Framework CSS: Bootstrap
+Outil de contrôle de version: Git
+Outil de test d'API: Postman
+
+
 ## 🤝 Collaboration
 Nous recherchons des collaborateurs passionnés pour contribuer à l'amélioration de Wood Jenka Finder. Si vous êtes intéressé à apporter vos compétences en programmation, en design ou en documentation, n'hésitez pas à ouvrir des pull requests, signaler des problèmes ou discuter de nouvelles fonctionnalités.
 
